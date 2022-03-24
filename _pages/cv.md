@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Artificial Intelligence, University of Lille, 2024 (expected)
-* Engineer's degree (eq MS.c) in Mathematical Engineering and Modelling, Clermont Auvergne University, 2020
+* Ph.D in Machine Learning, University of Lille, 2024 (expected)
+* Engineer's degree in Mathematical Engineering and Modelling, Clermont Auvergne University, 2020
 
 Work experience
 ======
