@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Artificial Intelligence, University of Lille, 2024 (expected)
+* Engineer's degree (eq MS.c) in Mathematical Engineering and Modelling, Clermont Auvergne University, 2020
 
 Work experience
 ======
